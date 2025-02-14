@@ -13,3 +13,8 @@
 148.[ Sort List]( https://leetcode.com/problems/sort-list/description/)<br>
 142.[ Detect a cycle in a linked list 2]( https://leetcode.com/problems/linked-list-cycle-ii/description/)<br>
 
+# Folder Structure
+
+|Folder
+    |---code
+    |---screenShot.png
