@@ -14,7 +14,7 @@
 142.[ Detect a cycle in a linked list 2]( https://leetcode.com/problems/linked-list-cycle-ii/description/)<br>
 
 # Folder Structure
-
-|Folder
-    |---code
+<br>
+|Folder<br>
+    |---code<br>
     |---screenShot.png
