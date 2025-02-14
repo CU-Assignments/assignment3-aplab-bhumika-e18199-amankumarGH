@@ -15,6 +15,7 @@
 
 # Folder Structure
 <br>
-|Folder<br>
-    |---code<br>
+|Folder
+<br>
+<-->|---code<br>
     |---screenShot.png
